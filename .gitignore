@@ -11,23 +11,19 @@ env/
 
 # Dossiers de sortie générés par les scripts
 # Les utilisateurs ne doivent pas versionner leurs propres résultats
-My_output/
-results/
-Inputs/
+# My_output/
+# results/
+# Inputs/
 
 # Fichiers de configuration d'IDE
 .vscode/
 .idea/
 
-# Fichiers de données volumineux et résultats générés
-*.avi
-*.mp4
-*.pth
-*.csv
-*.json
-
-# Dossier de site généré par MkDocs
-site/
+# Fichiers de données volumineux (vidéos, modèles, datasets)
+# ATTENTION : Utilisez Git LFS pour ces fichiers au lieu de les commenter.
+# *.avi
+# *.mp4
+# *.pth
 
 # Ne pas ignorer les données d'exemple
 !sample_data/
