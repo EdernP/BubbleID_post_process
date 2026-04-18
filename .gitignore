@@ -1,0 +1,38 @@
+# Fichiers et dossiers de cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dossiers d'environnement virtuels
+.venv/
+venv/
+env/
+
+# Dossiers de sortie générés par les scripts
+# Les utilisateurs ne doivent pas versionner leurs propres résultats
+My_output/
+results/
+Inputs/
+
+# Fichiers de configuration d'IDE
+.vscode/
+.idea/
+
+# Fichiers de données volumineux et résultats générés
+*.avi
+*.mp4
+*.pth
+*.csv
+*.json
+
+# Dossier de site généré par MkDocs
+site/
+
+# Ne pas ignorer les données d'exemple
+!sample_data/
+!sample_data/*
+
+# Ne pas ignorer les modèles si vous décidez de les inclure (avec Git LFS)
+# !MODELS/
+# !MODELS/*.pth
