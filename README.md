@@ -98,7 +98,7 @@ pip install numpy==1.23 opencv-python filterpy super-gradients
 ```
 Git clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/BubbleID_post_process.git
+git clone https://github.com/EdernP/BubbleID_post_process.git
 cd BubbleID_post_process
 ```
 
