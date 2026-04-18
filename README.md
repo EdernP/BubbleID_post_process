@@ -52,7 +52,7 @@ The current goal is to add new features for bubble detection, especially the tra
 ## Downloading the Model
 
 Before running the analysis, you need to download the pre-trained model weights.
-1. Download the trained model from: `[INSERT_LINK_TO_YOUR_MODEL_HERE]`
+1. Download the trained model 
 2. Place the downloaded `.pth` file inside the `MODELS/` directory.
 
 
